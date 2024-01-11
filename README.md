@@ -1,2 +1,2 @@
 # ProyectoFinalBigData
-Proyecto final del curso de Big Data de Codo a Codo
+Proyecto final de Python, del curso de Big Data de Codo a Codo, Utilzando las librerías NumPy, Matplotlib, Seaborn y Pandas.
